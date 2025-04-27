@@ -107,9 +107,9 @@ let default_settings = {
     },
     Netflix: {
         type: "Google", // Google, DeepL, External, Disable
-        lang: "English",
+        lang: "中文",
         sl: "auto",
-        tl: "en",
+        tl: "zh-CN",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
